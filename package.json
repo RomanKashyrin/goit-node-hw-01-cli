@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-hw-01-cli",
+  "version": "1.0.0",
+  "description": "-[list](https://ibb.co/xL8twRd)\r -[get](https://ibb.co/NK4N1HT)\r -[add](https://ibb.co/HhNwXs2)\r -[remove](https://ibb.co/Ks1v1Sp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
+  }
+}
